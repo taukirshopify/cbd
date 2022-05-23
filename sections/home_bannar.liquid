@@ -102,17 +102,17 @@
     }
 {% endschema %}
 
-{% stylesheet %}
+<style>
     
 .b-backgroud-picture {
-    background-image: url({{section.settings.image_picker}});
+    background-image: url('{{section.settings.image_picker}}');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
   }
   @media (min-width: 992px) {
     .b-backgroud-picture {
-      background-image: url({{section.settings.home_bannar02}});
+      background-image: url('{{section.settings.home_bannar02}}');
     }
   }
   
@@ -208,5 +208,4 @@
     color: #6fa77f;
     font-size: 16px;
   }
-  
-{% endstylesheet %}
+</style>
