@@ -1,0 +1,16 @@
+{
+  "sections": {
+    "home_bannar":{
+      "type": "home_bannar",
+      "settings": {
+        
+      }
+      
+    }
+   
+  },
+  "order": [
+
+    "home_bannar"
+  ]
+}
