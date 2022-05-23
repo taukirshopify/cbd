@@ -1,16 +1,30 @@
 {
   "sections": {
-    "home_bannar":{
+    "home_bannar": {
       "type": "home_bannar",
+      "blocks": {
+        "5bae93ec-be39-4852-a66e-178a3dfbf34a": {
+          "type": "slide",
+          "settings": {
+            "bannar_moving_text": "Oily skin",
+            "bannar_list_text": "Australian Owned"
+          }
+        }
+      },
+      "block_order": [
+        "5bae93ec-be39-4852-a66e-178a3dfbf34a"
+      ],
       "settings": {
-        
+        "home_bannar": "shopify:\/\/shop_images\/bannar01.jpg",
+        "home_bannar_text_top": "Goodbye",
+        "home_bannar_text_top_moving": "Oily skin",
+        "home_bannar_text_last": "<br>and hello <b>  clearer skin.<\/b>",
+        "home_bannar_url": "",
+        "home_button_text": "SHOP AUSTRALIAN HEMP PRODUCTS"
       }
-      
     }
-   
   },
   "order": [
-
     "home_bannar"
   ]
 }
