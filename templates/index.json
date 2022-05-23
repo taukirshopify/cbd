@@ -16,10 +16,11 @@
       ],
       "settings": {
         "home_bannar": "shopify:\/\/shop_images\/bannar01.jpg",
+        "home_bannar02": "shopify:\/\/shop_images\/bannar02.jpg",
         "home_bannar_text_top": "Goodbye",
         "home_bannar_text_top_moving": "Oily skin",
         "home_bannar_text_last": "<br>and hello <b>  clearer skin.<\/b>",
-        "home_bannar_url": "",
+        "home_bannar_url": "shopify:\/\/collections",
         "home_button_text": "SHOP AUSTRALIAN HEMP PRODUCTS"
       }
     }
